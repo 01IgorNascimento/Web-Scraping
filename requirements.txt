@@ -1,2 +1,11 @@
+requests
+st-pages
+streamlit
 unidecode
-beautifulsoup4
+python-dotenv
+streamlit-extras
+azure-storage-blob
+PyPDF2
+pycryptodome
+pathos
+dill
