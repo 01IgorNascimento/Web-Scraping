@@ -11,7 +11,7 @@ azure-cognitiveservices-speech
 azure-ai-textanalytics
 PyPDF2
 pycryptodome
-Pillow==9.2.0
+Pillow
 pyproject-toml
 webrtcvad-wheels
 unidecode
