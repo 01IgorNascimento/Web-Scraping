@@ -18,12 +18,3 @@ executing
 debugpy
 nest-asyncio
 jedi
-parso
-stack-data
-colorama
-wcwidth
-pure-eval
-comm
-matplotlib-inline
-certifi
-jsonschema-specifications
