@@ -1,3 +1,10 @@
 azure-mgmt-signalr
 PyGithub
 azure-core
+numpy
+msal
+cffi
+six
+wrapt
+webcolors
+openai
